@@ -1,7 +1,7 @@
-header {
-     background-color:#424E61;
-     color: white;
+:root {
+     --cor-de-fundo: #70411a;
 }
 
-.cabecalho-imagem 
-     width: 20%
+body {
+ background-color:var(--cor-de-fundo);
+}
