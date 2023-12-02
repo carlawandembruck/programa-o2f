@@ -1,8 +1,10 @@
-:root {
-     --cor-de-fundo: #70411a;
+.cabecalho {
+     background-color: brown;
+     color: white;
+     display: flex;
 }
 
-body {
- background-color:var(--cor-de-fundo);
+.cabecalho-imagem{
+    width: 20%;
 }
 
